@@ -1,0 +1,14 @@
+{
+  "groups": [{
+    "name": "storage",
+    "type": "bootsample.storage.StorageProperties",
+    "sourceType": "bootsample.storage.StorageProperties"
+  }],
+  "properties": [{
+    "name": "storage.location",
+    "type": "java.lang.String",
+    "description": "Folder location for storing files",
+    "sourceType": "bootsample.storage.StorageProperties"
+  }],
+  "hints": []
+}
